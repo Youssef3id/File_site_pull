@@ -1,8 +1,3 @@
-# Scraped Website Content
-
-## Website URL
-[https://example.com](https://example.com)  <!-- Replace with the actual URL -->
-
 ## Contents
 - `index.html`: The main HTML file of the website.
 - `css/`: Directory containing CSS files.
